@@ -1,0 +1,643 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.9.18)  19 SEP 2015 13:28
+entering extended mode
+**Parcial-Roxana_Ronquillo.tex
+(Parcial-Roxana_Ronquillo.tex
+LaTeX2e <2015/01/01> patch level 2
+Babel <3.9m> and hyphenation patterns for 69 languages loaded.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 94.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\color.sty"
+Package: color 2014/10/28 v1.1a Standard LaTeX Color (DPC)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 142.
+) (framed.sty
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip43
+\fb@frw=\dimen105
+\fb@frh=\dimen106
+\FrameRule=\dimen107
+\FrameSep=\dimen108
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\alltt.sty"
+Package: alltt 1997/06/16 v2.0g defines alltt environment
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\upquote\upquote.sty"
+Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
+tim
+)
+(Parcial-Roxana_Ronquillo.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count88
+\scratchdimen=\dimen109
+\scratchbox=\box26
+\nofMPsegments=\count89
+\nofMParguments=\count90
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count91
+\MPscratchDim=\dimen110
+\MPnumerator=\count92
+\makeMPintoPDFobject=\count93
+\everyMPtoPDFconversion=\toks16
+)
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ¡ in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ¡ in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ± in font cmr10!
+Package color Info: Redefining color shadecolor on input line 71.
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--71
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--71
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--71
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--71
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--71
+
+ []
+
+LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <10> not available
+(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 73.
+Missing character: There is no Ã in font cmtt10!
+Missing character: There is no ³ in font cmtt10!
+Missing character: There is no Ã in font cmtt10!
+Missing character: There is no ³ in font cmtt10!
+[1
+
+{C:/Users/Roxy/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
+Package color Info: Redefining color shadecolor on input line 196.
+
+Underfull \hbox (badness 10000) in paragraph at lines 193--196
+
+ []
+
+
+Overfull \hbox (48.74657pt too wide) in paragraph at lines 207--207
+[][]\OT1/cmtt/m/n/10 B[] []<-[] []matrix[][]([][]c[][]([][]20[][],[] []28[][],[
+] []30[][],[] []40[][],[] []12[][],[] []15[][],[] []12[][],[] []16[][],[][]8[][
+],[][]15[][],[][]10[][],[][]20[][]),[] []nrow[][]=[][]4[][],[] []ncol[][]=[][]3
+[][]);B[][] 
+ []
+
+[3]
+Package color Info: Redefining color shadecolor on input line 230.
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--230
+
+ []
+
+
+Overfull \hbox (32.9967pt too wide) in paragraph at lines 237--237
+[][]\OT1/cmtt/m/n/10 u[][]<-[][]"http://www.jaredlander.com/2012/02/another-kin
+d-of-super-bowl-pool/"[][] 
+ []
+
+Package color Info: Redefining color shadecolor on input line 259.
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--259
+
+ []
+
+
+Overfull \hbox (53.99652pt too wide) in paragraph at lines 299--299
+[]\OT1/cmtt/m/n/10 ##    Round                   Tomato Price           Source 
+Sweet Acid Color[] 
+ []
+
+
+Overfull \hbox (53.99652pt too wide) in paragraph at lines 299--299
+[]\OT1/cmtt/m/n/10 ## 1      1               Simpson SM  3.99      Whole Foods 
+  2.8  2.8   3.7[] 
+ []
+
+
+Overfull \hbox (53.99652pt too wide) in paragraph at lines 299--299
+[]\OT1/cmtt/m/n/10 ## 2      1        Tuttorosso (blue)  2.99          Pioneer 
+  3.3  2.8   3.4[] 
+ []
+
+
+Overfull \hbox (53.99652pt too wide) in paragraph at lines 299--299
+[]\OT1/cmtt/m/n/10 ## 3      1       Tuttorosso (green)  0.99          Pioneer 
+  2.8  2.6   3.3[] 
+ []
+
+
+Overfull \hbox (53.99652pt too wide) in paragraph at lines 299--299
+[]\OT1/cmtt/m/n/10 ## 4      1           La Fede SM DOP  3.99        Shop Rite 
+  2.6  2.8   3.0[] 
+ []
+
+
+Overfull \hbox (53.99652pt too wide) in paragraph at lines 299--299
+[]\OT1/cmtt/m/n/10 ## 5      2             Cento SM DOP  5.49       D Agostino 
+  3.3  3.1   2.9[] 
+ []
+
+
+Overfull \hbox (53.99652pt too wide) in paragraph at lines 299--299
+[]\OT1/cmtt/m/n/10 ## 6      2            Cento Organic  4.99       D Agostino 
+  3.2  2.9   2.9[] 
+ []
+
+
+Overfull \hbox (53.99652pt too wide) in paragraph at lines 299--299
+[]\OT1/cmtt/m/n/10 ## 7      2              La Valle SM  3.99        Shop Rite 
+  2.6  2.8   3.6[] 
+ []
+
+
+Overfull \hbox (53.99652pt too wide) in paragraph at lines 299--299
+[]\OT1/cmtt/m/n/10 ## 8      2          La Valle SM DOP  3.99           Faicos 
+  2.1  2.7   3.1[] 
+ []
+
+
+Overfull \hbox (53.99652pt too wide) in paragraph at lines 299--299
+[]\OT1/cmtt/m/n/10 ## 9      3   Stanislaus Alta Cucina  4.53 Restaurant Depot 
+  3.4  3.3   4.1[] 
+ []
+
+
+Overfull \hbox (53.99652pt too wide) in paragraph at lines 299--299
+[]\OT1/cmtt/m/n/10 ## 10     3                     Ciao    NA            Other 
+  2.6  2.9   3.4[] 
+ []
+
+
+Overfull \hbox (53.99652pt too wide) in paragraph at lines 299--299
+[]\OT1/cmtt/m/n/10 ## 11     3       Scotts Backyard SM  0.00       Home Grown 
+  1.6  2.9   3.1[] 
+ []
+
+
+Overfull \hbox (53.99652pt too wide) in paragraph at lines 299--299
+[]\OT1/cmtt/m/n/10 ## 12     3 Di Casa Barone (organic) 12.80           Eataly 
+  1.7  3.6   3.8[] 
+ []
+
+
+Overfull \hbox (53.99652pt too wide) in paragraph at lines 299--299
+[]\OT1/cmtt/m/n/10 ## 13     4         Trader Joes Plum  1.49      Trader Joes 
+  3.4  3.3   4.0[] 
+ []
+
+
+Overfull \hbox (53.99652pt too wide) in paragraph at lines 299--299
+[]\OT1/cmtt/m/n/10 ## 14     4          365 Whole Foods  1.49      Whole Foods 
+  2.8  2.7   3.4[] 
+ []
+
+
+Overfull \hbox (53.99652pt too wide) in paragraph at lines 299--299
+[]\OT1/cmtt/m/n/10 ## 15     4        Muir Glen Organic  3.19      Whole Foods 
+  2.9  2.8   2.7[] 
+ []
+
+
+Overfull \hbox (53.99652pt too wide) in paragraph at lines 299--299
+[]\OT1/cmtt/m/n/10 ## 16     4        Bionature Organic  3.39      Whole Foods 
+  2.4  3.3   3.4[] 
+ []
+
+[4]
+Package color Info: Redefining color shadecolor on input line 305.
+
+Underfull \hbox (badness 10000) in paragraph at lines 302--305
+
+ []
+
+
+Overfull \hbox (22.4968pt too wide) in paragraph at lines 319--319
+[]\OT1/cmtt/m/n/10 ## 16 Levels: 365 Whole Foods Bionature Organic ... Tuttoros
+so (green)[] 
+ []
+
+
+Overfull \hbox (27.74675pt too wide) in paragraph at lines 325--325
+[]\OT1/cmtt/m/n/10 ##  [1] 2.8 3.3 2.8 2.6 3.3 3.2 2.6 2.1 3.4 2.6 1.6 1.7 3.4 
+2.8 2.9 2.4[] 
+ []
+
+
+Overfull \hbox (27.74675pt too wide) in paragraph at lines 331--331
+[]\OT1/cmtt/m/n/10 ##  [1] 2.8 2.8 2.6 2.8 3.1 2.9 2.8 2.7 3.3 2.9 2.9 3.6 3.3 
+2.7 2.8 3.3[] 
+ []
+
+
+Overfull \hbox (27.74675pt too wide) in paragraph at lines 337--337
+[]\OT1/cmtt/m/n/10 ##  [1] 3.4 3.0 2.8 2.3 2.8 3.1 3.4 2.4 3.2 3.3 2.4 2.3 3.6 
+3.1 3.2 3.2[] 
+ []
+
+Package color Info: Redefining color shadecolor on input line 343.
+
+Underfull \hbox (badness 10000) in paragraph at lines 340--343
+
+ []
+
+[5]
+Overfull \hbox (17.24684pt too wide) in paragraph at lines 350--350
+[][]\OT1/cmtt/m/n/10 empresas[] []<-[] []read.spss[][]([][]"empresas.sav"[][],[
+] []to.data.frame[] []=[] []TRUE[][]); empresas[][] 
+ []
+
+Missing character: There is no Ã in font cmtt10!
+Missing character: There is no © in font cmtt10!
+Missing character: There is no Ã in font cmtt10!
+Missing character: There is no ± in font cmtt10!
+Missing character: There is no Ã in font cmtt10!
+Missing character: There is no ­ in font cmtt10!
+Missing character: There is no Ã in font cmtt10!
+Missing character: There is no ­ in font cmtt10!
+Missing character: There is no Ã in font cmtt10!
+Missing character: There is no ­ in font cmtt10!
+Package color Info: Redefining color shadecolor on input line 386.
+
+Underfull \hbox (badness 10000) in paragraph at lines 383--386
+
+ []
+
+[6]
+Underfull \vbox (badness 10000) detected at line 799
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 799
+ []
+
+[7]
+Underfull \vbox (badness 10000) detected at line 799
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 799
+ []
+
+[8]
+Underfull \vbox (badness 10000) detected at line 799
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 799
+ []
+
+[9]
+Underfull \vbox (badness 10000) detected at line 799
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 799
+ []
+
+[10]
+Underfull \vbox (badness 10000) detected at line 799
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 799
+ []
+
+[11]
+Underfull \vbox (badness 10000) detected at line 799
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 799
+ []
+
+[12]
+Underfull \vbox (badness 10000) detected at line 799
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 799
+ []
+
+[13]
+Underfull \vbox (badness 10000) detected at line 799
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 799
+ []
+
+[14]
+Package color Info: Redefining color shadecolor on input line 804.
+
+Underfull \hbox (badness 10000) in paragraph at lines 801--804
+
+ []
+
+[15]
+LaTeX Font Info:    Try loading font information for OMS+cmtt on input line 806
+.
+ (C:/PROGRA~1/R/R-32~1.1/share/texmf/tex/latex\omscmtt.fd
+File: omscmtt.fd 
+)
+LaTeX Font Info:    Font shape `OMS/cmtt/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 806.
+
+Overfull \hbox (90.49626pt too wide) in paragraph at lines 806--806
+[][]\OT1/cmtt/m/n/10 serie[] []<-[] []read.table[][]([][]file[] []=[] []"series
+.txt"[][],[] []header[] []=[] []TRUE[][],[][]sep[] []=[] []"\OMS/cmsy/m/n/10 n\
+OT1/cmtt/m/n/10 t"[][],[] []dec[] []=[] []"."[][]);serie[][] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 840--840
+[]\OT1/cmtt/m/n/10 ##     t Serie.1 Serie.3 Serie.4 t.1 Serie.1.1 Serie.3.1 Ser
+ie.4.1[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 840--840
+[]\OT1/cmtt/m/n/10 ## 1   1    6,58    3,66   13,36  31      5,91      28,3    
+  8,09[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 840--840
+[]\OT1/cmtt/m/n/10 ## 2   2    5,11    3,99   10,73  32      6,48     29,95    
+  9,68[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 840--840
+[]\OT1/cmtt/m/n/10 ## 3   3    6,32    5,02    9,29  33      6,07      3,19    
+ 12,31[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 840--840
+[]\OT1/cmtt/m/n/10 ## 4   4    6,36    6,44   10,82  34      6,72     33,13    
+ 10,82[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 840--840
+[]\OT1/cmtt/m/n/10 ## 5   5    5,88    7,51   13,24  35       5,9     34,48    
+  8,95[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 840--840
+[]\OT1/cmtt/m/n/10 ## 6   6     5,7    8,21    11,2  36      6,04     35,69    
+ 10,15[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 840--840
+[]\OT1/cmtt/m/n/10 ## 7   7    6,18    9,26    9,59  37      6,41     37,26    
+ 13,26[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 840--840
+[]\OT1/cmtt/m/n/10 ## 8   8    5,28    9,48      10  38      6,48     39,08    
+ 11,58[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 840--840
+[]\OT1/cmtt/m/n/10 ## 9   9     6,1   10,21   12,87  39         6     40,49    
+  9,82[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 840--840
+[]\OT1/cmtt/m/n/10 ## 10 10    5,74   10,78   10,77  40      6,35     42,09    
+ 11,37[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 840--840
+[]\OT1/cmtt/m/n/10 ## 11 11     5,1   11,57    8,99  41      5,81     43,17    
+ 13,82[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 840--840
+[]\OT1/cmtt/m/n/10 ## 12 12    6,08   12,55   10,18  42      6,32     44,58    
+ 12,69[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 840--840
+[]\OT1/cmtt/m/n/10 ## 13 13    6,28   13,86   13,12  43      6,41     46,24    
+ 10,91[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 840--840
+[]\OT1/cmtt/m/n/10 ## 14 14     5,4   14,34   10,54  44      6,67     48,32    
+ 12,08[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 840--840
+[]\OT1/cmtt/m/n/10 ## 15 15    5,72   14,77    8,53  45      5,53     49,34    
+ 14,81[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 840--840
+[]\OT1/cmtt/m/n/10 ## 16 16    6,35   25,88   10,11  46       5,6      49,9    
+ 12,51[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 840--840
+[]\OT1/cmtt/m/n/10 ## 17 17    6,15    17,1    12,9  47      5,93      50,6    
+ 10,93[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 840--840
+[]\OT1/cmtt/m/n/10 ## 18 18    5,74   10,91   10,57  48      4,89     51,45    
+ 12,31[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 840--840
+[]\OT1/cmtt/m/n/10 ## 19 19    6,44   19,31    9,27  49      5,83     52,18    
+ 14,67[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 840--840
+[]\OT1/cmtt/m/n/10 ## 20 20    6,09   20,62   10,48  50      5,31     52,28    
+ 11,61[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 840--840
+[]\OT1/cmtt/m/n/10 ## 21 21    6,33   22,13   13,54  51       6,6      55,5    
+ 11,15[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 840--840
+[]\OT1/cmtt/m/n/10 ## 22 22    5,68   23,04   11,05  52      5,42     53,96    
+ 11,63[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 840--840
+[]\OT1/cmtt/m/n/10 ## 23 23    5,95   23,93    9,32  53         6     54,69    
+ 14,38[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 840--840
+[]\OT1/cmtt/m/n/10 ## 24 24    5,98   24,87   10,52  54       5,7     55,21    
+ 11,86[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 840--840
+[]\OT1/cmtt/m/n/10 ## 25 25    5,08   25,83   13,32  55      6,26     56,27    
+ 10,08[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 840--840
+[]\OT1/cmtt/m/n/10 ## 26 26    5,36   26,09   10,45  56      6,15     57,46    
+ 12,12[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 840--840
+[]\OT1/cmtt/m/n/10 ## 27 27    6,62   27,42    9,54  57      5,65     58,16    
+ 14,23[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 840--840
+[]\OT1/cmtt/m/n/10 ## 28 28    5,32   27,82    9,84  58      5,28      58,2    
+ 11,26[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 840--840
+[]\OT1/cmtt/m/n/10 ## 29 29     5,3   27,73      12  59      6,68     59,48    
+ 10,83[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 840--840
+[]\OT1/cmtt/m/n/10 ## 30 30    5,89   28,06    9,74  60      5,94     60,56    
+ 11,84[] 
+ []
+
+[16] (Parcial-Roxana_Ronquillo.aux) ) 
+Here is how much of TeX's memory you used:
+ 1258 strings out of 493673
+ 16909 string characters out of 3141533
+ 250863 words of memory out of 3000000
+ 4639 multiletter control sequences out of 15000+200000
+ 3976 words of font info for 16 fonts, out of 3000000 for 9000
+ 1025 hyphenation exceptions out of 8191
+ 27i,6n,31p,535b,279s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmitt10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmtt10.pfb>
+Output written on Parcial-Roxana_Ronquillo.pdf (16 pages, 80344 bytes).
+PDF statistics:
+ 70 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
